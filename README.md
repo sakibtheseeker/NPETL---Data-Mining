@@ -1,4 +1,4 @@
-# NPETL---Data-Mining
+# NPETL - Data-Mining
 
 This repository contains all assignments, practical exercises,  for the **NPETL Data Mining** course. It covers key data mining concepts, algorithms, and case studies with hands-on implementations.
 
@@ -25,6 +25,9 @@ Each folder includes:
 - Solutions (code + explanations)
 - Additional datasets and resources (if needed)
 
+## 🏆 Certificate
+
+[View Certificate](Data Mining-Certificate.pdf)
 
 
 ## 📌 Useful For
