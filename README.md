@@ -23,7 +23,6 @@ This repository contains all assignments, practical exercises,  for the **NPETL 
 Each folder includes:
 - Problem Statements
 - Solutions (code + explanations)
-- Additional datasets and resources (if needed)
 
 ## 🏆 Certificate
 
