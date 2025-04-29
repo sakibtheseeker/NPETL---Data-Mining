@@ -27,7 +27,7 @@ Each folder includes:
 
 ## 🏆 Certificate
 
-[View Certificate](Data Mining-Certificate.pdf)
+[View Certificate](Data-Mining-Certificate.pdf)
 
 
 ## 📌 Useful For
